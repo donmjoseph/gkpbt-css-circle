@@ -6,3 +6,7 @@
 			width:500px; 	/* Parameter changed from 300 to 500 */
 			height:500px;	/* Parameter changed from 300 to 500 */
 }
+
+.red {
+	background-color:red 		/* Feature add color */
+	}
